@@ -34,7 +34,7 @@ Manage styles with JavaScript to move the cube.
 Your project should be available in a GitHub repository with clear instructions on how to run it in README.md.
 Ensure your code is organized and readable.
 
-## The project was deployed on the GitHub page using the [link]()
+## The project was deployed on the GitHub page using the [link](https://saysatsan.github.io/034.lesson_14/)
 
 ## Rules of the game:
 - press enter to start the game
